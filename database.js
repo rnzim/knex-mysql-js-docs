@@ -1,3 +1,4 @@
+//Conexão Com O DB
 const knex = require('knex')({
   client:'mysql',
   connection:{
